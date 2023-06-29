@@ -1,0 +1,1 @@
+chi tiet san pham <?php echo $info; ?>
